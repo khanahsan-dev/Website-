@@ -17,11 +17,11 @@ const SITE_CONFIG = {
     
     // Liens sociaux
     socialLinks: {
-        github: "https://github.com/paulafredo",
-        tiktok: "https://www.tiktok.com/@thug.4ff",
-        youtube: "https://www.youtube.com/@thug.4ff",
-        discord: "https://discord.gg/BhQk4q3JGJ",
-        telegram: "https://t.me/thug4ff"
+        github: "https://github.com/mradrk",
+        tiktok: "https://www.tiktok.com/@ahs4n_official",
+        youtube: "https://www.youtube.com/@AH4-OFFICALl",
+        discord: "https://discord.gg/rpHjrEVFxn",
+        telegram: "https://t.me/ahs4n_ofiical"
     },
     
     // Configuration audio
