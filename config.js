@@ -3,7 +3,7 @@
 
 const SITE_CONFIG = {
     // Informations personnelles
-    title: "Great THUG",
+    title: "AHSAN",
     citation: "I don't seek power - I am power.",
     
     // Couleurs principales (format hexadécimal)
