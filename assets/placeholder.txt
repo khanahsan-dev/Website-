@@ -1,32 +1,25 @@
-FICHIERS À AJOUTER DANS CE DOSSIER :
-
-1. background.mp4 - Vidéo de fond
-   - Format : MP4
-   - Résolution : 1920x1080 ou plus
-   - Style : Sombre, atmosphérique
-
-2. audio.mp3 - Musique de fond
-   - Format : MP3
-   - Durée : 2-5 minutes
-   - Style : Ambiance, électronique
-
-3. avatar.png - Image de profil
-   - Format : PNG
-   - Taille : 300x300 pixels minimum
-   - Style : Portrait ou logo
-
-4. cursor.gif - Curseur personnalisé
-   - Format : GIF
-   - Taille : 16x32 pixels
-   - Style : Curseur animé
-
-POUR TESTER LE SITE SANS CES FICHIERS :
-- Le site fonctionnera mais affichera des erreurs dans la console
-- Les éléments vidéo et audio ne se chargeront pas
-- L'avatar affichera une image cassée
-- Le curseur utilisera le curseur par défaut
-
-RECOMMANDATIONS :
-- Utilisez des fichiers de taille raisonnable pour un chargement rapide
-- Optimisez les vidéos et audios pour le web
-- Testez sur différents navigateurs
+background.mp4 – Background video
+Format: MP4
+Resolution: 1920x1080 or higher
+Style: Dark, atmospheric
+audio.mp3 – Background music
+Format: MP3
+Duration: 2–5 minutes
+Style: Ambient, electronic
+avatar.png – Profile image
+Format: PNG
+Size: Minimum 300x300 pixels
+Style: Portrait or logo
+cursor.gif – Custom cursor
+Format: GIF
+Size: 16x32 pixels
+Style: Animated cursor
+TO TEST THE SITE WITHOUT THESE FILES:
+The site will still work, but errors will appear in the console
+Video and audio elements will not load
+The avatar will display as a broken image
+The cursor will fall back to the default cursor
+RECOMMENDATIONS:
+Use reasonably sized files for faster loading
+Optimize videos and audio for the web
+Test on different browsers
